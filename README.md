@@ -4,11 +4,11 @@
 
 ----
 
-📚 I want to learn many interesting things
+📚  I want to learn many interesting things
 
-🔭 I am currently developing in `c`, `c++`, `c#`, and `java`.
+🔭  I am currently developing in `c`, `c++`, `c#`, and `java`.
 
-💡 I’m a student studying in 42Seoul
+💡  I am a student studying in 42Seoul
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sunhkim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
