@@ -4,7 +4,7 @@
 
 ----
 
-📚  I want to learn many interesting things
+📚  재미난 코딩이 하고파요
 
 🔭  I am currently developing in `c`, `c++`, `c#`, and `java`.
 
