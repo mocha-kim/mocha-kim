@@ -6,9 +6,11 @@
 
 📚  재미난 코딩이 하고파요
 
-🔭  I am currently developing in `c`, `c++`, `c#`, and `java`.
+💌  블로깅 꾸준히 하려고 노력중... https://blog.naver.com/jsg2804
 
-💡  I am a student studying in 42Seoul
+🔭  I'm currently developing in `c`, `c++`, `c#`, and `java`.
+
+💡  42Seoul student
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sunhkim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
