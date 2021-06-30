@@ -9,7 +9,8 @@
 📚  재미난 코딩이 하고파요
 
 💌  블로깅 꾸준히 하려고 노력중... 
-![blog](http://img.shields.io/badge/blog-Naver-03C75A?style=flatr&link=https://blog.naver.com/jsg2804)
+[![blog](http://img.shields.io/badge/blog-Naver-03C75A?style=flatr&link=https://blog.naver.com/jsg2804)](https://blog.naver.com/jsg2804)
+
 
 🔭  I'm currently developing in `c`, `c++`, `c#`, and `java`.
 
