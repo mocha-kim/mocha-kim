@@ -22,5 +22,5 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mocha-kim&hide=issues&count_private=true&show_icons=true&line_height=24&custom_title=Github%20Stats&bg_color=363945&title_color=F5DF4D&icon_color=FDAC53&text_color=A0DAA9)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mocha-kim&hide=issues&count_private=true&line_height=24&bg_color=363945&title_color=F5DF4D&icon_color=FDAC53&text_color=A0DAA9)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mocha-kim&layout=compact&bg_color=363945&title_color=F5DF4D&icon_color=FDAC53&text_color=A0DAA9)](https://github.com/anuraghazra/github-readme-stats)
