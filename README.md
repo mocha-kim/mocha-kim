@@ -15,8 +15,7 @@
 🔭  I'm currently developing in `c`, `c++`, `c#`
 
 💡  42Seoul student
-
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sunhkim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![sunhkim's 42 stats](https://badge42.vercel.app/api/v2/cl2ahqr6k001109mh5u3fk3ee/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 
 ##
 
