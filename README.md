@@ -17,8 +17,6 @@
 📚  재미난 코딩이 하고파요
 
 💌  블로깅 꾸준히 하려고 노력중... 
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
   
 🔭  I'm currently developing in
 <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="20"> <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="20"> <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="20">  
