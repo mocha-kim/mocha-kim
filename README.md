@@ -17,7 +17,6 @@
 📚  재미난 코딩이 하고파요
 
 💌  블로깅 꾸준히 하려고 노력중... 
-[![blog](http://img.shields.io/badge/blog-Naver-03C75A?style=flatr&link=https://blog.naver.com/jsg2804)](https://blog.naver.com/jsg2804)
   
 🔭  I'm currently developing in
 <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="20"> <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="20"> <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="20">  
@@ -25,6 +24,18 @@
 💡  42Seoul student
 
 [![sunhkim's 42 stats](https://badge42.vercel.app/api/v2/cl2ahqr6k001109mh5u3fk3ee/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
+
+</br></br></br>
+
+# Contact me </br></br>
+  
+</br>
+
+Naver Blog | [![Blog](https://img.shields.io/badge/blog.naver.com/jsg2804-03C75A?style=flat-square&logo=Naver&logoColor=white)](https://blog.naver.com/jsg2804)
+
+E-mail | ![Gmail](https://img.shields.io/badge/jsg2804@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)
+
+Instagram | ![Instagram](https://img.shields.io/badge/@_mocha.929_-E4405F?style=flat-square&logo=Instagram&logoColor=white)
 
 </br></br></br>
 
