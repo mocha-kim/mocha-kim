@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://github.com/mocha-kim/mocha-kim/blob/main/banner.png" alt="banner">
+[![banner](https://github.com/mocha-kim/mocha-kim/blob/main/banner.png)](https://blog.naver.com/jsg2804)
 </br>
 
 # About me </br></br>
