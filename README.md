@@ -35,7 +35,7 @@ Naver Blog | [![Blog](https://img.shields.io/badge/blog.naver.com/jsg2804-03C75A
 
 E-mail | ![Gmail](https://img.shields.io/badge/jsg2804@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)
 
-Instagram | ![Instagram](https://img.shields.io/badge/@_mocha.929_-E4405F?style=flat-square&logo=Instagram&logoColor=white)
+Instagram | [![Instagram](https://img.shields.io/badge/@_mocha.929_-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_mocha.929_/)
 
 </br></br></br>
 
