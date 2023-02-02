@@ -21,9 +21,7 @@
 🔭  I'm currently developing in
 <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="20"> <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="20"> <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="20">  
   
-💡  42Seoul student
-
-[![sunhkim's 42 stats](https://badge42.vercel.app/api/v2/cl2ahqr6k001109mh5u3fk3ee/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
+💡  42Seoul member
 
 </br></br></br>
 
