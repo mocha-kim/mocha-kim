@@ -57,6 +57,16 @@
 </br>
 
 <!-- BLOG-POST-LIST:START -->
+- [[C#/Unity]](https://blog.naver.com/mocha-kim/223095033962)
+- [[Git] REMOTE HOST IDENTIFICATION HAS CHANGED!](https://blog.naver.com/mocha-kim/223064918898)
+- [[C#/Unity] 게임 디자인 패턴 -  서비스 로케이터 패턴](https://blog.naver.com/mocha-kim/223000766992)
+- [[C#/Unity] 게임 디자인 패턴 -  퍼사드 패턴&lpar;facade pattern&rpar;](https://blog.naver.com/mocha-kim/222996615280)
+- [[C#/Unity] 게임 디자인 패턴 -  어댑터 패턴&lpar;adapter pattern&rpar;](https://blog.naver.com/mocha-kim/222993088146)
+- [[C#/Unity] 게임 디자인 패턴 -  공간 분할&lpar;spatial partition&rpar;](https://blog.naver.com/mocha-kim/222989239761)
+- [[C#/Unity] 게임 디자인 패턴 -  데커레이터 패턴&lpar;decorator pattern&rpar;](https://blog.naver.com/mocha-kim/222986257814)
+- [[C#/Unity] 게임 디자인 패턴 -  전략 패턴&lpar;strategy pattern&rpar;](https://blog.naver.com/mocha-kim/222983731456)
+- [[C#/Unity] 게임 디자인 패턴 -  방문자 패턴&lpar;visiter pattern&rpar;](https://blog.naver.com/mocha-kim/222981614269)
+- [[C#/Unity] 게임 디자인 패턴 - 옵저버 패턴&lpar;observer pattern&rpar;](https://blog.naver.com/mocha-kim/222979487666)
 <!-- BLOG-POST-LIST:END -->
 
 ## Others </br></br>
