@@ -52,6 +52,9 @@
 
 </br></br></br>
 
+</div>
+<div align="center">
+
 ## Recent blog posts </br></br>
   
 </br>
