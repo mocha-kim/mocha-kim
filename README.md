@@ -52,10 +52,10 @@
 
 </br></br></br>
 
-</div>
-<div align="center">
-
 ## Recent blog posts </br></br>
+  
+</div>
+<div align="start">
   
 </br>
 
@@ -71,6 +71,11 @@
 - [[C#/Unity] 게임 디자인 패턴 -  방문자 패턴&lpar;visiter pattern&rpar;](https://blog.naver.com/mocha-kim/222981614269)
 - [[C#/Unity] 게임 디자인 패턴 - 옵저버 패턴&lpar;observer pattern&rpar;](https://blog.naver.com/mocha-kim/222979487666)
 <!-- BLOG-POST-LIST:END -->
+
+</div>
+
+</br></br></br>
+<div align="center">
 
 ## Others </br></br>
   
