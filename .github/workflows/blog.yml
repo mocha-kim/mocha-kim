@@ -17,7 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://rss.blog.naver.com/mocha-kim.xml"
-          template: "$title | [🔗Link]($url)"
+          template: "- $title | [🔗Link]($url)"
           max_post_count: 8
           
   # 출처: https://github.com/gautamkrishnar/blog-post-workflow
