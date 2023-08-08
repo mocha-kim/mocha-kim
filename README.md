@@ -48,7 +48,7 @@
 </br>
 
 [![Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/mocha-kim)
-<img src="https://img.shields.io/badge/jsg2804@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+<img src="https://img.shields.io/badge/dev.sunhye@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
 </br></br></br>
 
