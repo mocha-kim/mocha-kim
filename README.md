@@ -60,7 +60,7 @@
 </br>
 
 <!-- BLOG-POST-LIST:START -->
- - 혼자 하는 게임 스터디&lpar;1&rpar; : 2월 5주차, 인트로 | [🔗Link](https://blog.naver.com/mocha-kim/223368067938?fromRss=true)
+ - 혼자 하는 게임 스터디&lpar;0&rpar; : 2월 5주차 _ 인트로 | [🔗Link](https://blog.naver.com/mocha-kim/223368067938?fromRss=true)
  - [C#/Unity] UniRx | [🔗Link](https://blog.naver.com/mocha-kim/223210483687?fromRss=true)
  - [Algorithm] 순위 | [🔗Link](https://blog.naver.com/mocha-kim/223206073930?fromRss=true)
  - [Algorithm] 사칙연산 | [🔗Link](https://blog.naver.com/mocha-kim/223205906530?fromRss=true)
