@@ -60,14 +60,14 @@
 </br>
 
 <!-- BLOG-POST-LIST:START -->
+ - 혼자 하는 게임 스터디&lpar;2&rpar; : 3월 3~4주차 _ 벡터 / 삼각함수 / ADB | [🔗Link](https://blog.naver.com/mocha-kim/223392325462?fromRss=true)
  - 혼자 하는 게임 스터디&lpar;1&rpar; : 3월 1~2주차 _ 수와 집합 / 함수 /  레벨과 액터 / Sprite Resolver 애니메이션 | [🔗Link](https://blog.naver.com/mocha-kim/223380057401?fromRss=true)
  - 혼자 하는 게임 스터디&lpar;0&rpar; : 2월 5주차 _ 인트로 | [🔗Link](https://blog.naver.com/mocha-kim/223368067938?fromRss=true)
  - [C#/Unity] UniRx | [🔗Link](https://blog.naver.com/mocha-kim/223210483687?fromRss=true)
  - [Algorithm] 순위 | [🔗Link](https://blog.naver.com/mocha-kim/223206073930?fromRss=true)
  - [Algorithm] 사칙연산 | [🔗Link](https://blog.naver.com/mocha-kim/223205906530?fromRss=true)
  - [C#/Unity] 이것저것 북마크 | [🔗Link](https://blog.naver.com/mocha-kim/223095033962?fromRss=true)
- - [Git] REMOTE HOST IDENTIFICATION HAS CHANGED! | [🔗Link](https://blog.naver.com/mocha-kim/223064918898?fromRss=true)
- - [C#/Unity] 게임 디자인 패턴 -  서비스 로케이터 패턴 | [🔗Link](https://blog.naver.com/mocha-kim/223000766992?fromRss=true)<!-- BLOG-POST-LIST:END -->
+ - [Git] REMOTE HOST IDENTIFICATION HAS CHANGED! | [🔗Link](https://blog.naver.com/mocha-kim/223064918898?fromRss=true)<!-- BLOG-POST-LIST:END -->
 
 </div>
 
