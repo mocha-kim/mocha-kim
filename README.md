@@ -60,14 +60,14 @@
 </br>
 
 <!-- BLOG-POST-LIST:START -->
+ - 혼자 하는 게임 스터디&lpar;5&rpar; : 6월 1~2주차 _  시야 판별 / 조명 효과 / 드로우 콜 / 배칭 / 스프라이트 마스크 | [🔗Link](https://blog.naver.com/mocha-kim/223479614480?fromRss=true&trackingCode=rss)
  - 혼자 하는 게임 스터디&lpar;4&rpar; : 4월 3~4주차 _ 아핀 공간 / 벡터의 내적 / 나이아가라 시스템 / 레이어 마스크와 레이캐스팅 | [🔗Link](https://blog.naver.com/mocha-kim/223430002881?fromRss=true&trackingCode=rss)
  - 혼자 하는 게임 스터디&lpar;3&rpar; : 3월 5주차 ~ 4월 1주차 _ 행렬 / 머터리얼 / IoC, DI, MVC with Unity | [🔗Link](https://blog.naver.com/mocha-kim/223409671760?fromRss=true&trackingCode=rss)
  - 혼자 하는 게임 스터디&lpar;2&rpar; : 3월 3~4주차 _ 벡터 / 삼각함수 / ADB | [🔗Link](https://blog.naver.com/mocha-kim/223392325462?fromRss=true&trackingCode=rss)
  - 혼자 하는 게임 스터디&lpar;1&rpar; : 3월 1~2주차 _ 수와 집합 / 함수 /  레벨과 액터 / Sprite Resolver 애니메이션 | [🔗Link](https://blog.naver.com/mocha-kim/223380057401?fromRss=true&trackingCode=rss)
  - 혼자 하는 게임 스터디&lpar;0&rpar; : 2월 5주차 _ 인트로 | [🔗Link](https://blog.naver.com/mocha-kim/223368067938?fromRss=true&trackingCode=rss)
  - [C#/Unity] UniRx | [🔗Link](https://blog.naver.com/mocha-kim/223210483687?fromRss=true&trackingCode=rss)
- - [Algorithm] 순위 | [🔗Link](https://blog.naver.com/mocha-kim/223206073930?fromRss=true&trackingCode=rss)
- - [Algorithm] 사칙연산 | [🔗Link](https://blog.naver.com/mocha-kim/223205906530?fromRss=true&trackingCode=rss)<!-- BLOG-POST-LIST:END -->
+ - [Algorithm] 순위 | [🔗Link](https://blog.naver.com/mocha-kim/223206073930?fromRss=true&trackingCode=rss)<!-- BLOG-POST-LIST:END -->
 
 </div>
 
