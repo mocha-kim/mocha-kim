@@ -1,5 +1,4 @@
-<div align="center">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=160&text=Sunhye%20Kim&fontSize=48&fontAlignY=45&desc=Hello%20World!&descAlignY=70&animation=fadeIn)
 
 
@@ -20,14 +19,10 @@
 💡  42Seoul member
 
 </br>
- 
 
-## I can use </br></br>
-  
-</br>
+## Tech
 
-<img src="https://img.shields.io/badge/Unity-555555?style=for-the-badge&logo=Unity&logoColor=white">
-<img src="https://img.shields.io/badge/Unreal%20Engine-555555?style=for-the-badge&logo=UnrealEngine&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-555555?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/Unreal%20Engine-555555?style=for-the-badge&logo=UnrealEngine&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -41,23 +36,16 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
 
-</br></br></br>
+</br></br>
 
-## Contact me </br></br>
-  
-</br>
+## Contact
 
 [![Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/mocha-kim)
 <img src="https://img.shields.io/badge/dev.sunhye@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
-</br></br></br>
+</br></br>
 
-## Recent blog posts </br></br>
-  
-</div>
-<div align="start">
-  
-</br>
+## Recent blog posts 
 
 <!-- BLOG-POST-LIST:START -->
  - [Algorithm] 2098 외판원 순회 | [🔗Link](https://blog.naver.com/mocha-kim/223529625983?fromRss=true&trackingCode=rss)
@@ -71,20 +59,11 @@
 
 </div>
 
-</br></br></br>
-<div align="center">
+</br></br>
 
-## Others </br></br>
-  
-</br>
+## Others
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mocha-kim&hide=issues&count_private=true&line_height=24&bg_color=363945&title_color=FFF29C&icon_color=FDAC53&text_color=C8FFCC)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mocha-kim&layout=compact&bg_color=363945&title_color=FFF29C&icon_color=FDAC53&text_color=C8FFCC)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mocha-kim&rank=-C&column=-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Notion](https://img.shields.io/badge/Notion%20Resume-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/mocha-kim/9ad4337d4fbd47a483b15dd101f87440?pvs=4)
-
-</div>
-
-</br></br>
