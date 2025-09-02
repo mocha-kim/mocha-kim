@@ -4,17 +4,17 @@
 
 </br>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmocha-kim%2Fhit-counter&count_bg=%230AABAE&title_bg=%23555555&title=hits)
+![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fmocha-kim?color=green&label=hits&size=small)
 ![42](https://img.shields.io/badge/Born2Code-sunhkim-F5DF4D?style=flat&logo=42&logoColor=white)
 
 </br>
 
-📚  재미난 코딩이 하고파요
+📚  재미있게 코딩하는 삶을 살고 싶습니다
 
-💌  블로깅 꾸준히 하려고 노력중
+💌  블로깅 잠시 쉬어가는 중!
   
 🔭  I'm currently developing in
-<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="20"> <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="20">  
+<img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="20">  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="20"> 
   
 💡  42Seoul member
 
