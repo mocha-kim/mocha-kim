@@ -63,7 +63,6 @@
 
 ## Others
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mocha-kim&hide=issues&count_private=true&line_height=24&bg_color=363945&title_color=FFF29C&icon_color=FDAC53&text_color=C8FFCC)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mocha-kim&layout=compact&bg_color=363945&title_color=FFF29C&icon_color=FDAC53&text_color=C8FFCC)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mocha-kim&rank=-C&column=-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
